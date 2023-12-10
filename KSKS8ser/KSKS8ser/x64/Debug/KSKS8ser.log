@@ -1,0 +1,47 @@
+﻿  MyForm.cpp
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(839,32): warning C4566: character represented by universal-character-name '\u041E' cannot be represented in the current code page (1252)
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(839,32): warning C4566: character represented by universal-character-name '\u0448' cannot be represented in the current code page (1252)
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(839,32): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(839,32): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(839,32): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(839,32): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(839,32): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(839,32): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(839,32): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(839,32): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(839,32): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(839,32): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(839,32): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(839,32): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(839,32): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(237,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(240,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(243,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(246,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(249,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(252,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(260,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(263,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(263,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(272,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(275,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(278,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(281,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(284,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(287,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(296,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(296,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(304,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(304,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(316,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(575,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(578,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(581,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(595,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(595,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(847,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\LR8\KSKS8ser\KSKS8ser\MyForm.h(1021,65): warning C4101: 'e': unreferenced local variable
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  KSKS8ser.vcxproj -> C:\LR8\KSKS8ser\x64\Debug\KSKS8ser.exe
